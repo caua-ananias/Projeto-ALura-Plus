@@ -1,6 +1,6 @@
 # Esse é o Projeto do site Alura+, um site ficticio de streaming cursos online. (ele realmente existe '-')
 
-![image](./assets/aluraPlus-site.png)
+![image](./img/aluraPlus-site.png)
 
 ## Ferramentas utilizadas:
 
