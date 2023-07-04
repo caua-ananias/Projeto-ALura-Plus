@@ -10,6 +10,8 @@
 
 * Flex-box
 
+* Grid
+
 ## Feito por:
 
 ### Cauã Ananias
